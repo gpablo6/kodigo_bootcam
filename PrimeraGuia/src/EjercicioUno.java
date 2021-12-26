@@ -18,13 +18,8 @@ public class EjercicioUno {
 
     public static void main(String[] args){
         //Declaracion de Variables de Tipo Entero
-        int NumUno = 1;
-        int NumDos = 2;
-        int NumDiez = 10;
-        int ResultSum;
-        int ResultSub;
-        int ResultMul;
-        int ResultDiv;
+        int NumUno = 1, NumDos = 2, NumDiez = 10;
+        int ResultSum, ResultSub, ResultMul, ResultDiv;
 
         //Operaciones
         ResultSum = numSum(NumUno, NumDos);
